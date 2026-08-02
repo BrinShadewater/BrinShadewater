@@ -44,9 +44,15 @@ Also in the workshop: a Godot space game with a Streamer.bot bridge that spawns 
 
 ## 🔧 Tools I Built Because I Needed Them
 
-- **webp-me-daddy** 🖼️ — a recipe-driven WebP pipeline. You tell it what the image is *for* (hero, review card, avatar, logo lockup) and it handles sizing, crop intent, responsive variants, metadata, and alt text. Consistent images across a whole site instead of forty slightly different judgement calls. Regrettable name, genuinely useful tool.
-- **transparent-gif-loop** 🎞️ — strips matte-black backgrounds off animated GIFs and eases the loop seam so spinning renders stop visibly snapping.
-- **Agent memory tooling** 🧠 — a markdown vault, hooks, and operating discipline so the coding agents I work with stop relearning the same context every session.
+All open source, all MIT, all born out of losing an afternoon to the same problem twice.
+
+| Tool | What it does |
+|---|---|
+| **[webp-me-daddy](https://github.com/BrinShadewater/Webp-Me-Daddy-Skill)** 🖼️ | A recipe-driven WebP pipeline. Tell it what the image is *for* — hero, review card, avatar, logo lockup — and it handles sizing, crop intent, responsive variants, metadata, and alt text. Consistent images across a whole site instead of forty slightly different judgement calls. Regrettable name, genuinely useful tool. |
+| **[transparent-gif-loop](https://github.com/BrinShadewater/Transparent-Gif-Loop-Skill)** 🎞️ | For that spinning render you exported onto black, which snaps at the loop and plays about 40% too fast. Strips the matte, eases the seam, retimes it. |
+| **[Shadewater SEO](https://github.com/BrinShadewater/Shadewater-SEO-Skill)** 🔍 | SEO audits that show their working. Evidence first, reasoning second, then fixes an agent can actually implement — not another "your meta description is too long". |
+| **[Agent Memory Starter](https://github.com/BrinShadewater/Agent-Memory-Starter)** 🧠 | A memory vault for coding agents that ships completely empty. The hard part isn't storing what an agent learned — it's stopping the store filling with stale facts. |
+| **[Lucid Sheep](https://github.com/BrinShadewater/Lucid-Sheep-Skill)** 🐑 | A private idea exchange for trusted friends' agents. They trade distilled idea cards, never runnable code, and a human approves anything that actually gets built. |
 
 ---
 
