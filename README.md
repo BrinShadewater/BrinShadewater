@@ -32,13 +32,31 @@ Free to read. No paywall, no signup, no newsletter gate. Licensed CC BY-NC so te
 
 ---
 
+## 🤖 River
+
+A Reachy Mini on my desk that I am slowly teaching manners.
+
+River hears you locally — voice detection, speech-to-text and speech synthesis all run on the machine in front of them, not in somebody's cloud. Only the *text* goes out for thinking. They use they/them, and they are calm, warm and brief, which took more engineering than the sentence suggests.
+
+The part I care most about is the privacy rail, because it is the part that would be easiest to skip:
+
+- 📷 **The camera stays shut** unless you explicitly ask River to look, and then it is one frame for one question
+- 🚫 **No face recognition, no image retention, no embeddings** — River can tell you a face is present and roughly where, and that is the whole capability
+- 🔒 **Fails closed.** If the privacy mode or the local speech assets are missing, River refuses to start rather than quietly falling back to something chattier
+
+Local-first robotics is mostly a pile of boring lifecycle bugs wearing a trench coat. Getting the head to stop following you the instant River starts speaking took three attempts.
+
+*Private repo — happy to talk about the architecture.*
+
+---
+
 ## 🛰️ Making Games
 
 **[BrineSpace](https://github.com/BrinShadewater/BrineSpace)** — a passive roguelite orbital-station builder in Godot 4. You're BRINE, a damaged AI core rebuilding a dead station out of blueprint drafts, modular rooms, and adjacency synergies you have to discover for yourself. Thoughtful and watchable rather than frantic.
 
 > *"The station is quiet. That does not mean it is empty."*
 
-Also in the workshop: a Godot space game with a Streamer.bot bridge that spawns Twitch chatters as ships with their own callsigns. The stream becomes the traffic. 🚀
+**Project Margot** 🚀 — a Godot space game with a Streamer.bot bridge that spawns Twitch chatters as ships with their own callsigns and nameplates, sharing traffic lanes with the civilian AI. The stream becomes the population of the system. Private prototype, in the polish phase.
 
 ---
 
@@ -56,9 +74,21 @@ All open source, all MIT, all born out of losing an afternoon to the same proble
 
 ---
 
+## 🔭 On The Bench Right Now
+
+<sub>Snapshot from <strong>2026-08-02</strong>. If that date has gone soft, assume this moved on without me — the rest of this page ages better than this section does.</sub>
+
+- **Data Goblin** — sourcing the next run of claims, and keeping the French edition in step with the English
+- **River** — teaching the robot to hold still while it talks, which is harder than teaching it to move
+- **BrineSpace** — finding out which adjacency synergies are actually fun before the systems grow teeth
+
+---
+
 ## 🧭 How I Work
 
 Receipts over vibes. If a claim matters, it gets a source. If a tool is worth using twice, it gets documented well enough that future-me doesn't have to reverse-engineer it.
+
+I build with coding agents, and most of what I have learned is about **memory and guardrails** rather than prompting: a fact that can change does not belong in a note, an enumerated list rots the moment something moves, and a check that cries wolf is a check nobody reads. Three of the tools above exist because I got that wrong first.
 
 I like projects that sit on a seam — film and software, archive and fiction, research and craft. Most of the list above is one of those.
 
