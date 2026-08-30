@@ -20,6 +20,18 @@ Free to read. No paywall, no signup, no newsletter gate. Licensed CC BY-NC so te
 
 ---
 
+## ⏱️ Film Set Tools
+
+**[filmsettools.com](https://filmsettools.com)** — the tools I kept wishing I had on set, so I built them.
+
+Nine tools for BC film crew — meal penalties, turnaround, cast hours, overtime, studio-zone boundaries — grounded in the actual union agreements, with the article cited and the working shown. Built for the people who have to answer these questions at 5am with a radio in one hand, because a number you can't defend on set is worse than no number at all.
+
+The zone maps are the part I'm proudest of: the boundary data is human-sourced from the agreements' own written boundary language, human-reviewed, and guarded by a human-signed golden test set. No AI-generated geography gets to tell a driver where the zone ends.
+
+*Private repo — the site is the product.*
+
+---
+
 ## 🎬 Things I've Shipped
 
 | Project | What it is |
@@ -76,11 +88,11 @@ All open source, all MIT, all born out of losing an afternoon to the same proble
 
 ## 🔭 On The Bench Right Now
 
-<sub>Snapshot from <strong>2026-08-02</strong>. If that date has gone soft, assume this moved on without me — the rest of this page ages better than this section does.</sub>
+<sub>Snapshot from <strong>2026-08-30</strong>. If that date has gone soft, assume this moved on without me — the rest of this page ages better than this section does.</sub>
 
+- **Film Set Tools** — the studio-zone boundary work shipped for both zones; now scoping the travel rules engine that sits on top of it
 - **Data Goblin** — sourcing the next run of claims, and keeping the French edition in step with the English
-- **River** — teaching the robot to hold still while it talks, which is harder than teaching it to move
-- **BrineSpace** — finding out which adjacency synergies are actually fun before the systems grow teeth
+- **River** — teaching the robot to reliably recognize one specific cat, which turns out to be a hard problem in exactly the ways face recognition should be
 
 ---
 
