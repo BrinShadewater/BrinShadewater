@@ -24,9 +24,9 @@ Free to read. No paywall, no signup, no newsletter gate. Licensed CC BY-NC so te
 
 **[filmsettools.com](https://filmsettools.com)** — the tools I kept wishing I had on set, so I built them.
 
-Nine tools for BC film crew — meal penalties, turnaround, cast hours, overtime, studio-zone boundaries — grounded in the actual union agreements, with the article cited and the working shown. Built for the people who have to answer these questions at 5am with a radio in one hand, because a number you can't defend on set is worse than no number at all.
+Ten tools for BC film crew — meal penalties, turnaround, cast hours, overtime, studio-zone boundaries, and what the agreements pay for travel beyond the zone — grounded in the actual union agreements, with the article cited and the working shown. Built for the people who have to answer these questions at 5am with a radio in one hand, because a number you can't defend on set is worse than no number at all.
 
-The zone maps are the part I'm proudest of: the boundary data is human-sourced from the agreements' own written boundary language, human-reviewed, and guarded by a human-signed golden test set. No AI-generated geography gets to tell a driver where the zone ends.
+The zone maps are the part I'm proudest of: the boundary data is human-sourced from the agreements' own written boundary language, human-reviewed, and guarded by a human-signed golden test set. No AI-generated geography gets to tell a driver where the zone ends. Both zones are now drawn on an interactive map, and every rule on the site has been checked visually against the rendered agreement pages rather than a text extraction.
 
 *Private repo — the site is the product.*
 
@@ -48,7 +48,7 @@ The zone maps are the part I'm proudest of: the boundary data is human-sourced f
 
 A Reachy Mini on my desk that I am slowly teaching manners.
 
-River hears you locally — voice detection, speech-to-text and speech synthesis all run on the machine in front of them, not in somebody's cloud. Only the *text* goes out for thinking. They use they/them, and they are calm, warm and brief, which took more engineering than the sentence suggests.
+River hears you locally — voice detection and speech-to-text run on the machine in front of him, not in somebody's cloud. Only *text* leaves the machine. He uses he/him, and he is calm, warm and brief, which took more engineering than the sentence suggests.
 
 The part I care most about is the privacy rail, because it is the part that would be easiest to skip:
 
@@ -88,9 +88,9 @@ All open source, all MIT, all born out of losing an afternoon to the same proble
 
 ## 🔭 On The Bench Right Now
 
-<sub>Snapshot from <strong>2026-08-30</strong>. If that date has gone soft, assume this moved on without me — the rest of this page ages better than this section does.</sub>
+<sub>Snapshot from <strong>2026-09-02</strong>. If that date has gone soft, assume this moved on without me — the rest of this page ages better than this section does.</sub>
 
-- **Film Set Tools** — the studio-zone boundary work shipped for both zones; now scoping the travel rules engine that sits on top of it
+- **Film Set Tools** — the travel rules engine shipped on top of the zone work and its rate table passed human review; next is auto-filling distance from the boundary road network, which is built but waits on its own signed golden routes
 - **Data Goblin** — sourcing the next run of claims, and keeping the French edition in step with the English
 - **River** — teaching the robot to reliably recognize one specific cat, which turns out to be a hard problem in exactly the ways face recognition should be
 
