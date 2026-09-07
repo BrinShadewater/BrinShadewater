@@ -64,7 +64,15 @@ Local-first robotics is mostly a pile of boring lifecycle bugs wearing a trench 
 
 ## 🛰️ Making Games
 
-**[BrineSpace](https://github.com/BrinShadewater/BrineSpace)** — a passive roguelite orbital-station builder in Godot 4. You're BRINE, a damaged AI core rebuilding a dead station out of blueprint drafts, modular rooms, and adjacency synergies you have to discover for yourself. Thoughtful and watchable rather than frantic.
+**[BrineSpace](https://github.com/BrinShadewater/BrineSpace)** — an underwater station-restoration roguelite prototype in Godot 4.6. You're BRINE, a damaged AI core rebuilding a silent station through blueprint drafts, connected rooms, and relationships between systems that you discover by keeping them running.
+
+Expand across the seabed, send mining and salvage drones out for supplies, and repair derelict cryo wards to recover the station's missing architects. The prototype now has 40 room types, three recoverable architects, construction drones, finite harvesting, and an airlock that floods and drains. Full crew excursions through that airlock are still in progress.
+
+[![BrineSpace starting screen with BRINE suspended inside her tank](https://media.githubusercontent.com/media/BrinShadewater/BrineSpace/main/docs/screenshots/starting-screen.png)](https://github.com/BrinShadewater/BrineSpace#readme)
+
+*[Game overview and in-game screenshots](https://github.com/BrinShadewater/BrineSpace#readme) · [Current development checkpoint](https://github.com/BrinShadewater/BrineSpace/blob/main/docs/BRINESPACE_HANDOFF_2026-09-06.md)*
+
+The next work is bringing the latest systems into one tested build, refining crew movement and equipment animation, and completing the airlock excursion loop. Source-available, all rights reserved; still a prototype.
 
 > *"The station is quiet. That does not mean it is empty."*
 
