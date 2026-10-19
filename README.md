@@ -4,7 +4,7 @@ Assistant Director in film and TV by day. Streamer, writer, and compulsive tool-
 
 I was Producer and 1st AD on **Strange Harvest**, a cosmic-horror mockumentary that got a wide theatrical release and now streams on Hulu and Paramount+. Most of what I build here comes from the same instinct that makes a good AD: notice how the thing is actually put together, then make the pieces fit.
 
-I ship under **[Shadewater Labs](https://shadewaterlabs.com/)** ⚗️ — a small studio for web work, AI tooling, and creative-technical projects.
+I ship under **[Shadewater Labs](https://shadewaterlabs.com/)** ⚗️ — a small studio for web work, games, AI tooling, and creative-technical projects.
 
 ---
 
@@ -36,6 +36,7 @@ The zone maps are the part I'm proudest of: the boundary data is human-sourced f
 
 | Project | What it is |
 |---|---|
+| **[BrineSpace](https://brinshadewater.itch.io/brinespace)** 🛰️ | Underwater roguelite station builder. Free Windows Manta Ray build and Mac alpha available; iPad in testing. |
 | **[Strange Harvest](https://strangeharvestmovie.com/)** 🎬 | Official site for the film. Trailers, press, cast, geo-aware watch paths. |
 | **[Ink Master Studio](https://inkmasterstudio.com/)** 🖨️ | Local-first canvas editor that turns artwork into print-ready files for print-on-demand. Your images never leave the browser. |
 | **[Lost Hills Online](https://losthills.net)** 🏛️ | The restored municipal web portal of a town that stopped updating in 1997. An in-world archive with records the Clerk's Office would rather you didn't crawl. |
@@ -64,15 +65,21 @@ Local-first robotics is mostly a pile of boring lifecycle bugs wearing a trench 
 
 ## 🛰️ Making Games
 
-**[BrineSpace](https://github.com/BrinShadewater/BrineSpace)** — an underwater station-restoration roguelite prototype in Godot 4.6. You're BRINE, a damaged AI core rebuilding a silent station through blueprint drafts, connected rooms, and relationships between systems that you discover by keeping them running.
+**[BrineSpace](https://brinshadewater.itch.io/brinespace)** — build the hand you're dealt. Keep the station alive.
 
-Expand across the seabed, send mining and salvage drones out for supplies, and repair derelict cryo wards to recover the station's missing architects. The prototype now has 40 room types, three recoverable architects, construction drones, finite harvesting, and an airlock that floods and drains. Full crew excursions through that airlock are still in progress.
+An underwater station-restoration roguelite in **Godot 4.7**. You play BRINE, a damaged AI core rebuilding a silent station through room-card drafts, connected modules and hidden synergies. Send mining, construction and salvage drones out to work, recover the station's missing crew, and keep power, oxygen and supplies flowing while leaks, floods and fires complicate the plan.
 
-[![BrineSpace starting screen with BRINE suspended inside her tank](https://media.githubusercontent.com/media/BrinShadewater/BrineSpace/main/docs/screenshots/starting-screen.png)](https://github.com/BrinShadewater/BrineSpace#readme)
+**v0.3.0 Manta Ray is free to download for Windows, with a Mac alpha also available.** Optional support is welcome. **iPad remains in testing**, with no public download or announced release date.
 
-*[Game overview and in-game screenshots](https://github.com/BrinShadewater/BrineSpace#readme) · [Current development checkpoint](https://github.com/BrinShadewater/BrineSpace/blob/main/docs/BRINESPACE_HANDOFF_2026-09-06.md)*
+The published Windows build has **79 room types, 101 pair synergies and 11 multi-room patterns**, plus four recoverable architects and three optional companions. Conclude an expedition to bank Archived Data, then buy blueprints, crew and companions for future loops.
 
-The next work is bringing the latest systems into one tested build, refining crew movement and equipment animation, and completing the airlock excursion loop. Source-available, all rights reserved; still a prototype.
+[![BrineSpace starting screen with BRINE suspended inside her tank](https://media.githubusercontent.com/media/BrinShadewater/BrineSpace/main/docs/screenshots/starting-screen.png)](https://brinshadewater.itch.io/brinespace)
+
+**[Play on itch.io](https://brinshadewater.itch.io/brinespace)** · **[Watch the gameplay trailer](https://www.youtube.com/watch?v=Qotx5wmJt7M)** · [Manta Ray devlog](https://brinshadewater.itch.io/brinespace/devlog/1715251/-v030-manta-ray-windows-mac-are-available) · [Source and development checkpoints](https://github.com/BrinShadewater/BrineSpace#source-checkpoints--october-19-2026)
+
+For fans of Blue Prince's room drafting, The King Is Watching's roguelite resource-management trade-offs, Stacklands' card-driven building, and Oxygen Not Included's colony-survival pressures. BrineSpace takes its own underwater approach, with room synergies and Archived Data progression between expeditions.
+
+Still an early-development prototype: large-station performance and longer expeditions remain under evaluation. The Mac alpha has been tested on Apple M4; physical Intel Macs remain untested. Source-available, all rights reserved.
 
 > *"The station is quiet. That does not mean it is empty."*
 
