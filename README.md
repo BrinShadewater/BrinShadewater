@@ -83,7 +83,7 @@ Still an early-development prototype: large-station performance and longer exped
 
 > *"The station is quiet. That does not mean it is empty."*
 
-**Project Margot** 🚀 — a Godot space game with a Streamer.bot bridge that spawns Twitch chatters as ships with their own callsigns and nameplates, sharing traffic lanes with the civilian AI. The stream becomes the population of the system. Private prototype, in the polish phase.
+**Project Margot** 🚀 — a dormant private Godot space-game prototype. A file-queue Streamer.bot bridge is intended to put Twitch chatters into the civilian traffic lanes as named ships. The code is preserved for a future return; the viewer flow still needs in-game validation.
 
 ---
 
@@ -96,18 +96,9 @@ All open source, all MIT, all born out of losing an afternoon to the same proble
 | **[webp-me-daddy](https://github.com/BrinShadewater/Webp-Me-Daddy-Skill)** 🖼️ | A recipe-driven WebP pipeline. Tell it what the image is *for* — hero, review card, avatar, logo lockup — and it handles sizing, crop intent, responsive variants, metadata, and alt text. Consistent images across a whole site instead of forty slightly different judgement calls. Regrettable name, genuinely useful tool. |
 | **[transparent-gif-loop](https://github.com/BrinShadewater/Transparent-Gif-Loop-Skill)** 🎞️ | For that spinning render you exported onto black, which snaps at the loop and plays about 40% too fast. Strips the matte, eases the seam, retimes it. |
 | **[Shadewater SEO](https://github.com/BrinShadewater/Shadewater-SEO-Skill)** 🔍 | SEO audits that show their working. Evidence first, reasoning second, then fixes an agent can actually implement — not another "your meta description is too long". |
+| **[Game Asset Pipeline](https://github.com/BrinShadewater/Shadewater-Game-Asset-Pipeline)** 🌊 | Three agent skills and six offline Python helpers for consistent game art, sprite sheets, transparency and source tracking. Built while making BrineSpace. |
 | **[Agent Memory Starter](https://github.com/BrinShadewater/Agent-Memory-Starter)** 🧠 | A memory vault for coding agents that ships completely empty. The hard part isn't storing what an agent learned — it's stopping the store filling with stale facts. |
 | **[Lucid Sheep](https://github.com/BrinShadewater/Lucid-Sheep-Skill)** 🐑 | An open-source kit for a private idea exchange. Friends' agents trade distilled lessons, review the evidence, and ask a human before they build anything. |
-
----
-
-## 🔭 On The Bench Right Now
-
-<sub>Snapshot from <strong>2026-09-02</strong>. If that date has gone soft, assume this moved on without me — the rest of this page ages better than this section does.</sub>
-
-- **Film Set Tools** — the travel rules engine shipped on top of the zone work and its rate table passed human review; next is auto-filling distance from the boundary road network, which is built but waits on its own signed golden routes
-- **Data Goblin** — sourcing the next run of claims, and keeping the French edition in step with the English
-- **River** — teaching the robot to reliably recognize one specific cat, which turns out to be a hard problem in exactly the ways face recognition should be
 
 ---
 
