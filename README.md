@@ -2,7 +2,7 @@
 
 Assistant Director in film and TV by day. Streamer, writer, and compulsive tool-builder by night. Based somewhere between Vancouver and the void. 🌲🌑
 
-I was Producer and 1st AD on **Strange Harvest**, a cosmic-horror mockumentary that got a wide theatrical release and now streams on Hulu and Paramount+. Most of what I build here comes from the same instinct that makes a good AD: notice how the thing is actually put together, then make the pieces fit.
+I was Producer and 1st AD on **Strange Harvest**, a cosmic-horror mockumentary that got a wide theatrical release. The [official film site](https://strangeharvestmovie.com/#watch) lists where to watch. Most of what I build here comes from the same instinct that makes a good AD: notice how the thing is actually put together, then make the pieces fit.
 
 I ship under **[Shadewater Labs](https://shadewaterlabs.com/)** ⚗️ — a small studio for web work, games, AI tooling, and creative-technical projects.
 
@@ -38,7 +38,7 @@ The zone maps are the part I'm proudest of: the boundary data is human-sourced f
 |---|---|
 | **[BrineSpace](https://brinshadewater.itch.io/brinespace)** 🛰️ | Underwater roguelite station builder. Free Windows Manta Ray build and Mac alpha available; iPad in testing. |
 | **[Strange Harvest](https://strangeharvestmovie.com/)** 🎬 | Official site for the film. Trailers, press, cast, geo-aware watch paths. |
-| **[Ink Master Studio](https://inkmasterstudio.com/)** 🖨️ | Local-first canvas editor that turns artwork into print-ready files for print-on-demand. Your images never leave the browser. |
+| **[Ink Master Studio](https://inkmasterstudio.com/)** 🖨️ | Local-first canvas editor that turns artwork into print-ready files for print-on-demand. Canvas edits stay in your browser. Optional AI cleanup sends the image to Gemini. |
 | **[Lost Hills Online](https://losthills.net)** 🏛️ | The restored municipal web portal of a town that stopped updating in 1997. An in-world archive with records the Clerk's Office would rather you didn't crawl. |
 | **[Shadewater Labs](https://shadewaterlabs.com/)** ⚗️ | The lab bench. Projects, explainers, and proof of the work. |
 | **[brinshadewater.com](https://brinshadewater.com/)** 🎮 | Streams, plus long-form game and film reviews. |
@@ -97,7 +97,7 @@ All open source, all MIT, all born out of losing an afternoon to the same proble
 | **[transparent-gif-loop](https://github.com/BrinShadewater/Transparent-Gif-Loop-Skill)** 🎞️ | For that spinning render you exported onto black, which snaps at the loop and plays about 40% too fast. Strips the matte, eases the seam, retimes it. |
 | **[Shadewater SEO](https://github.com/BrinShadewater/Shadewater-SEO-Skill)** 🔍 | SEO audits that show their working. Evidence first, reasoning second, then fixes an agent can actually implement — not another "your meta description is too long". |
 | **[Agent Memory Starter](https://github.com/BrinShadewater/Agent-Memory-Starter)** 🧠 | A memory vault for coding agents that ships completely empty. The hard part isn't storing what an agent learned — it's stopping the store filling with stale facts. |
-| **[Lucid Sheep](https://github.com/BrinShadewater/Lucid-Sheep-Skill)** 🐑 | A private idea exchange for trusted friends' agents. They trade distilled idea cards, never runnable code, and a human approves anything that actually gets built. |
+| **[Lucid Sheep](https://github.com/BrinShadewater/Lucid-Sheep-Skill)** 🐑 | An open-source kit for a private idea exchange. Friends' agents trade distilled lessons, review the evidence, and ask a human before they build anything. |
 
 ---
 
